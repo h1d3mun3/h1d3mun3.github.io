@@ -5,7 +5,7 @@ Email: h1d3mun3.74k4h45h1@gmail.com
 Company: [GO Inc,](https://goinc.jp/)  
 Twitter: [@h1d3mun3](https://twitter.com/h1d3mun3)  
 
-# 登壇・ブログ記事など
+# 個人メディアに乗せていない登壇・ブログ記事など
 
 ## 登壇
 - [タクシーアプリの多言語対応・ローカライズにおける課題と解決策](https://speakerdeck.com/mot_techtalk/takusiahurinoduo-yan-yu-dui-ying-rokaraisuniokeruke-ti-tojie-jue-ce)
